@@ -94,7 +94,8 @@
   border-radius: 5px;
   padding: 1rem;
 }
-.write-new-post-body-content form textarea:active, .write-new-post-body-content form textarea:focus {
+.write-new-post-body-content form textarea:active,
+.write-new-post-body-content form textarea:focus {
   background-color: rgba(0, 0, 0, 0.05);
 }
 .write-new-post-body-content form button {
